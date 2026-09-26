@@ -36,7 +36,7 @@ Todos os recursos ficam na região `us-east-1`, dentro de uma VPC dedicada. As t
 
 - [Terraform](https://developer.hashicorp.com/terraform/install) instalado
 - Conta AWS com credenciais configuradas (`aws configure` ou variáveis de ambiente)
-- Um key pair chamado `carldev-lab` existente em `us-east-1` (ou altere `key_name` em `7-ec2-worker.tf`)
+- Um key pair chamado `sua .pem` existente em `us-east-1` (ou altere `key_name` em `7-ec2-worker.tf`)
 
 ## Como usar
 
